@@ -1,0 +1,142 @@
+[
+  {
+    "_id": {
+      "category_id": [
+        {
+          "$oid": "67a795493f04c91c04dede2a"
+        }
+      ]
+    },
+    "doc": {
+      "_id": {
+        "$oid": "67f04741ebe3fdcae4d00de2"
+      },
+      "name": "Veeba Chef's Special Hot Sweet Tomato Chilli Sauce",
+      "category_id": [
+        {
+          "$oid": "67a795493f04c91c04dede2a"
+        }
+      ]
+    }
+  },
+  {
+    "_id": {
+      "category_id": [
+        {
+          "$oid": "679a828216586d97fb62ea75"
+        }
+      ]
+    },
+    "doc": {
+      "_id": {
+        "$oid": "67f04209ebe3fdcae4d00595"
+      },
+      "name": "Combo of 3 - Lemon 6 pieces (150 g - 220 g) + Valencia Orange 3 pieces (450 g - 550 g) + Royal Gala Apple 2 pieces (240 g - 340 g)",
+      "category_id": [
+        {
+          "$oid": "679a828216586d97fb62ea75"
+        }
+      ]
+    }
+  },
+  {
+    "_id": {
+      "category_id": [
+        {
+          "$oid": "679a826b16586d97fb62ea72"
+        }
+      ]
+    },
+    "doc": {
+      "_id": {
+        "$oid": "67f03f15ebe3fdcae4d00264"
+      },
+      "name": "Amul Blend Diced Cheese",
+      "category_id": [
+        {
+          "$oid": "679a826b16586d97fb62ea72"
+        }
+      ]
+    }
+  },
+  {
+    "_id": {
+      "category_id": [
+        {
+          "$oid": "679a826b16586d97fb62ea72"
+        }
+      ]
+    },
+    "doc": {
+      "_id": {
+        "$oid": "67f03f15ebe3fdcae4d00264"
+      },
+      "name": "Amul Blend Diced Cheese",
+      "category_id": [
+        {
+          "$oid": "679a826b16586d97fb62ea72"
+        }
+      ]
+    }
+  },
+  {
+    "_id": {
+      "category_id": [
+        {
+          "$oid": "67a791093f04c91c04dede01"
+        }
+      ]
+    },
+    "doc": {
+      "_id": {
+        "$oid": "67f045e9ebe3fdcae4d00b8b"
+      },
+      "name": "GO DESi Mints Meetha Paan",
+      "category_id": [
+        {
+          "$oid": "67a791093f04c91c04dede01"
+        }
+      ]
+    }
+  },
+  {
+    "_id": {
+      "category_id": [
+        {
+          "$oid": "679a82ac16586d97fb62ea78"
+        }
+      ]
+    },
+    "doc": {
+      "_id": {
+        "$oid": "67f04377ebe3fdcae4d007f4"
+      },
+      "name": "Goldmedal I-Link 16A 3 Pin Multi Plug",
+      "category_id": [
+        {
+          "$oid": "679a82ac16586d97fb62ea78"
+        }
+      ]
+    }
+  },
+  {
+    "_id": {
+      "category_id": [
+        {
+          "$oid": "67a795493f04c91c04dede2a"
+        }
+      ]
+    },
+    "doc": {
+      "_id": {
+        "$oid": "67f04741ebe3fdcae4d00de2"
+      },
+      "name": "Veeba Chef's Special Hot Sweet Tomato Chilli Sauce",
+      "category_id": [
+        {
+          "$oid": "67a795493f04c91c04dede2a"
+        }
+      ]
+    }
+  }
+]
